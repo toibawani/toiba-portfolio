@@ -16,7 +16,7 @@ export default function Hero() {
           className="max-w-md text-[16px] leading-relaxed text-white/80 sm:text-[18px]"
           style={{ fontFamily: 'var(--font-body)' }}
         >
-          CS Engineer · Author · Speaker · Educator. I debug algorithms by day and write poetry by night.
+          CS Engineer (AI/ML) · Builder of RAG pipelines, simulations &amp; mobile apps · Published author. I debug algorithms by day and write poetry by night.
         </p>
       </div>
 

@@ -3,21 +3,21 @@ import { Reveal } from './ui'
 
 export default function Services() {
   return (
-    <section id="services" className="relative z-[1] bg-[#0f0f0e] px-5 py-20 sm:px-8 md:px-10 md:py-28">
+    <section id="skills" className="relative z-[1] bg-[#0f0f0e] px-5 py-20 sm:px-8 md:px-10 md:py-28">
       <Reveal>
         <p
           className="mb-3 text-[13px] uppercase tracking-[0.2em] text-white/50"
           style={{ fontFamily: 'var(--font-display)' }}
         >
-          Skills &amp; services
+          Technical skills
         </p>
         <h2
           className="mb-12 text-[34px] font-extrabold leading-[0.95] tracking-tight text-white sm:text-[48px] md:text-[58px]"
           style={{ fontFamily: 'var(--font-display)' }}
         >
-          What I can
+          The stack
           <br />
-          do for you.
+          I build with.
         </h2>
       </Reveal>
 

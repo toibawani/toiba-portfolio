@@ -1,4 +1,4 @@
-import VideoBg from './components/VideoBg'
+import Backdrop from './components/Backdrop'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import AriaIntro from './components/AriaIntro'
@@ -11,7 +11,7 @@ import Footer from './components/Footer'
 export default function App() {
   return (
     <>
-      <VideoBg />
+      <Backdrop />
       <Navbar />
       <main>
         <Hero />
